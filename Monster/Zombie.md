@@ -1,1 +1,0 @@
-https://www.dndbeyond.com/monsters/17077-zombie

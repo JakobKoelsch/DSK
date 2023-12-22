@@ -4,6 +4,7 @@
 [[Pytho]]  (Metropole)
 [[Sykion]] (Vorort von [[Pytho]])
 [[Hypnos Tempel]]
+[[Thermalbäder]]
 # Organisationen
 [[Amphyktionischer Rat]]: Herrscher über Große Teile Delphis in Form einer Theokratischen Ältestenherrschaft alleine dadurch, dass seine Mitglieder alles echte Drachen sind. Wichtigstes Medium der Einflussname sind die Weissagungen des [[Python]].
 
