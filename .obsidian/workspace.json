@@ -51,6 +51,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6bae0e0ead19563e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Thetia/Thalassia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d232fd0ad13b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Thetia/Ricky Sumatsi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-22.md"
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
               }
             }
           }
@@ -183,15 +207,16 @@
   },
   "active": "35c8325190723964",
   "lastOpenFiles": [
-    "Misc/442 Garifallias Verhaftung.md",
+    "Orte/Thetia/Thalassia.md",
+    "NPCs/Thetia/Ricky Sumatsi.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Misc/442 Garifallias Verhaftung.md",
     "Misc/Die Großen Städte der Welten.md",
     "2023-12-22.md",
     "Templates/Session Prep 2.md",
     "Orte/Meta/Bar von Meta.md",
     "Misc/Argo.md",
     "ZZBilder/Pasted image 20231220184133.png",
-    "Orte/Thetia/Thalassia.md",
     "Orte/Thetia/Atlantis.md",
     "Orte/Gaja/Hades/Hades.md",
     "Orte/Gaja/Hades",
@@ -226,7 +251,6 @@
     "NPCs/Chaos/Aresjünger",
     "NPCs/Gaja/Druiden/Nadja Born (tot).md",
     "NPCs/Gaja/Druiden/Nachtfalken.md",
-    "NPCs/Gaja/Halblinge/Gundelius Born.md",
     "NPCs/Gaja/Grie",
     "Untitled.canvas",
     "ZZBilder/Pasted image 20231220155133.png",
