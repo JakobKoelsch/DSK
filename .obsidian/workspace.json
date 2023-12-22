@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ort/Meta/Meta.md",
+                "file": "Orte/Meta/Meta.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ort/Thetia/Thetia.md",
+                "file": "Orte/Thetia/Thetia.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ort/Gaja/Valkon/Valkon.md",
+                "file": "Orte/Gaja/Valkon/Valkon.md",
                 "mode": "source",
                 "source": false
               },
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Gaja/Halblinge/Timmy Maksbar.md",
+                "file": "Orte/Chaos/Ys.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Gaja/Halblinge/Timmy Maksbar.md",
+                "file": "Orte/Chaos/Ys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Gaja/Halblinge/Timmy Maksbar.md",
+                "file": "Orte/Chaos/Ys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Gaja/Halblinge/Timmy Maksbar.md"
+                "file": "Orte/Chaos/Ys.md"
               }
             }
           }
@@ -207,13 +207,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a54a1602d4aa9e5a",
+  "active": "33baa8a45ea4ece4",
   "lastOpenFiles": [
+    "Orte/Chaos/Tula.md",
+    "Orte/Chaos/Sinkholes.md",
+    "Orte/Chaos/Lager der Freiheitsarmee (Agam).md",
+    "Orte/Chaos/Harim/Harim 1.md",
+    "Orte/Chaos/Garga.md",
+    "NPCs/Chaos/Aresjünger/Anhänger Ares.md",
+    "Orte/Chaos/Harim",
+    "NPCs/Meta/Meta NPCs.md",
+    "NPCs/Gaja/Halblinge/Timmy Maksbar.md",
+    "NPCs/Chaos/Sumpfbewohner",
     "NPCs/Chaos/Bergbewohner",
     "NPCs/Chaos/Hiatianer",
     "NPCs/Chaos/Pallasjünger",
-    "NPCs/Chaos/Bürger",
-    "NPCs/Chaos/Amazonen",
+    "NPCs/Chaos/Stadtbewohner",
+    "NPCs/Chaos/Steppenbewohner",
     "NPCs/Chaos/Aresjünger",
     "NPCs/Gaja/Druiden/Nadja Born (tot).md",
     "NPCs/Gaja/Druiden/Nachtfalken.md",
@@ -223,28 +233,18 @@
     "NPCs/Gaja/Halblinge/Arabella Donesint.md",
     "NPCs/Meta/Wolf Skyrkamm.md",
     "NPCs/Gaja/Druiden",
-    "NPCs/Gaja/Vallen",
-    "NPCs/Gaja/Halblinge",
     "NPCs/Reisende/Titane.md",
     "NPCs/Reisende/Theia.md",
     "NPCs/Gaja/Halblinge/Rufus Quakelsand.md",
     "NPCs/Thetia/Ricky Sumatsi.md",
-    "NPCs/Thetia",
-    "NPCs/Chaos/Ratio.md",
+    "NPCs/Chaos/Pallasjünger/Ratio.md",
     "NPCs/Reisende/Prometheus.md",
     "NPCs/Delphi/Phokas.md",
     "NPCs/Gaja/Halblinge/Meike Maksbar.md",
-    "NPCs/Chaos/Bürger/Machi.md",
+    "NPCs/Chaos/Stadtbewohner/Machi.md",
     "NPCs/Chaos/Aresjünger/Lothar Wilsum.md",
-    "NPCs/Chaos/Amazonen/Lilly Bonebite.md",
+    "NPCs/Chaos/Steppenbewohner/Lilly Bonebite.md",
     "NPCs/Reisende/Koios.md",
-    "NPCs/Reisende/Kerkopen.md",
-    "NPCs/Delphi/Kasimir.md",
-    "NPCs/Chaos/Amazonen/Jack Sparrows.md",
-    "NPCs/Chaos/Bergbewohner/Igor der Zerstörer (tot).md",
-    "NPCs/Meta/Isara Herzflüsterin.md",
-    "NPCs/Chaos/Hiatianer/Hiatianer.md",
-    "NPCs/Gaja/Halblinge/Herr Firps.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
     "Untitled.canvas",
     "ZZBilder/Pasted image 20231220184133.png",
