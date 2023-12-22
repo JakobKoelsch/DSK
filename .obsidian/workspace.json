@@ -44,28 +44,16 @@
               "state": {
                 "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "viewState": {
-                  "x": 337.6655168943552,
-                  "y": 246.87945866732514,
+                  "x": 331.082477319067,
+                  "y": 256.9803288054159,
                   "zoom": -0.23333333333333306
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8c83accfb86e8776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Die Großen Städte der Welten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "die großen städte der welten",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Die Großen Städte der Welten.md",
+                "file": "2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Die Großen Städte der Welten.md",
+                "file": "2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Die Großen Städte der Welten.md"
+                "file": "2023-12-22.md"
               }
             }
           }
@@ -194,10 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c83accfb86e8776",
+  "active": "35c8325190723964",
   "lastOpenFiles": [
-    "2023-12-22.md",
+    "Misc/442 Garifallias Verhaftung.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Misc/Die Großen Städte der Welten.md",
+    "2023-12-22.md",
     "Templates/Session Prep 2.md",
     "Orte/Meta/Bar von Meta.md",
     "Misc/Argo.md",
@@ -238,7 +227,6 @@
     "NPCs/Gaja/Druiden/Nadja Born (tot).md",
     "NPCs/Gaja/Druiden/Nachtfalken.md",
     "NPCs/Gaja/Halblinge/Gundelius Born.md",
-    "NPCs/Gaja/Grie/Gríe.md",
     "NPCs/Gaja/Grie",
     "Untitled.canvas",
     "ZZBilder/Pasted image 20231220155133.png",
