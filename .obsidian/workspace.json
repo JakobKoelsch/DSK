@@ -58,14 +58,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Misc/Die Großen Städte der Welten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bar",
+                "query": "die großen städte der welten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Misc/Die Großen Städte der Welten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Misc/Die Großen Städte der Welten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
+                "file": "Misc/Die Großen Städte der Welten.md"
               }
             }
           }
@@ -193,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c8325190723964",
+  "active": "8c83accfb86e8776",
   "lastOpenFiles": [
     "2023-12-22.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
