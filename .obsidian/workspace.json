@@ -51,18 +51,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a7340a0db1f09e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Feyran Themon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-22.md"
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
               }
             }
           }
@@ -196,8 +184,10 @@
   },
   "active": "35c8325190723964",
   "lastOpenFiles": [
-    "Player Characters/Feyran Themon.md",
+    "NPCs/Thetia/Ricky Sumatsi.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Orte/Thetia/Thalassia.md",
+    "Player Characters/Feyran Themon.md",
     "Orte/Thetia/Thetia.md",
     "Orte/Thetia/Atlantis.md",
     "Homebrew/Hühnerpuzzle.md",
@@ -205,8 +195,6 @@
     "Homebrew/Die Ertrunkenen Geheimnisse von Atlantis- Sokrates der Ältere und Aelina Themon.md",
     "Misc/Auszug Protokoll Gerichtsverhandlung Garifallia.md",
     "Homebrew/Im Bann der Ewigen Wellen- Sokrates der Ältere und das Ertrinken von Atlantis.md",
-    "Orte/Thetia/Thalassia.md",
-    "NPCs/Thetia/Ricky Sumatsi.md",
     "Misc/442 Garifallias Verhaftung.md",
     "Misc/Die Großen Städte der Welten.md",
     "2023-12-22.md",
@@ -232,7 +220,6 @@
     "Orte/Chaos/Sinkholes.md",
     "Orte/Chaos/Lager der Freiheitsarmee (Agam).md",
     "Orte/Chaos/Harim/Harim 1.md",
-    "Orte/Chaos/Garga.md",
     "Orte/Chaos/Harim",
     "NPCs/Chaos/Sumpfbewohner",
     "NPCs/Chaos/Bergbewohner",
