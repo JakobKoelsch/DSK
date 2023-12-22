@@ -1,4 +1,4 @@
- #world
+ #world #niklas
 
 # Historie
 
@@ -8,7 +8,6 @@
 Naturwelt im Stand der Antike. Umgeben von Lava und Eis.
 Bewohnt vor allem von Menschen, Elfen und Halblingen, die ihrerseits Krieger oder Druiden sind.
 ## Eleby
-#level/1-4
 ### Geografie
 
 ![[Eleby]]
@@ -16,4 +15,5 @@ Bewohnt vor allem von Menschen, Elfen und Halblingen, die ihrerseits Krieger ode
 ![[Valkon]]
 ## Hades
 #level/11-16
-[[Hades]] ist die Unterwelt unter [[Eleby]], die in den [[Tartaros]] mündet
+[[Hades]] ist die Unterwelt unter [[Eleby]], die in den [[Tartaros]] mündet.
+![[Hades]]

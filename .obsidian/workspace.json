@@ -53,63 +53,19 @@
             }
           },
           {
-            "id": "dfa676f64fabdc25",
+            "id": "768b6a5aa870d8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Braum Glücksfuß.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c44c6fffb410217",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1db9b76b58764197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ort/Delphi/Delphi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3fbabf996ea19a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ort/Delphi/Thermalbäder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c857257f28500526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/U-Boot.md",
+                "file": "Ort/Gaja/Valkon/Valkon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "braum",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/U-Boot.md",
+                "file": "Ort/Gaja/Valkon/Valkon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/U-Boot.md",
+                "file": "Ort/Gaja/Valkon/Valkon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/U-Boot.md"
+                "file": "Ort/Gaja/Valkon/Valkon.md"
               }
             }
           }
@@ -237,38 +193,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c857257f28500526",
+  "active": "768b6a5aa870d8b2",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Ort/Gaja/Valkon/See Nero/See Nero.md",
+    "Ort/Gaja/Valkon/Fern-Valla/Fern-Valla.md",
+    "Ort/Gaja/Eleby/Kutschenmuseum.md",
+    "Ort/Gaja/Eleby/G.67.421 (Eingang zur Unterwelt) (Lv. 1-4).md",
+    "Ort/Gaja/Eleby/Heiliger Baum der Demeter.md",
+    "Ort/Gaja/Eleby/Murs Zelt.md",
+    "Ort/Gaja/Eleby/Quelle von Arethusa.md",
+    "Ort/Gaja/Eleby/Remí.md",
+    "Ort/Gaja/Eleby/Weg nach Remí.md",
+    "Ort/Gaja/Eleby/Wohnzimmer der Maksbars.md",
+    "Ort/Gaja/Eleby/Flüchtlingslager der Halblinge.md",
+    "NPCs/Tasty McBacon.md",
+    "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Templates/Region Template.md",
+    "Ort/Gaja/Eleby/Eleby.md",
+    "Ort/Gaja/Eleby/Eingang zur Unterwelt.md",
+    "Ort/Gaja/Eleby/Demí.md",
+    "Hades.md",
+    "Ort/Gaja/Gaja.md",
+    "Homebrew/Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook.md",
     "Homebrew/U-Boot.md",
+    "Untitled.canvas",
     "Ort/Chaos/Tula.md",
     "Ort/Delphi/Thermalbäder.md",
     "Thorren Großhorn.md",
     "Ort/Thetia/Thalassia.md",
     "Homebrew/Thalassia Names.md",
     "NPCs/Teiresias.md",
-    "Ort/Delphi/Sykion.md",
-    "Homebrew/Register von Thalassia.md",
-    "Ort/Delphi/Pytho.md",
-    "NPCs/Prometheus.md",
-    "NPCs/Phokas.md",
-    "NPCs/Maria und der kleine Tim.md",
-    "Ort/Chaos/Lager der Freiheitsarmee (Agam).md",
-    "Ort/Chaos/Kloster von Pallas Athene.md",
-    "NPCs/Kasimir.md",
-    "Homebrew/In den Antiken Halls des Kosmos- Sokrates der Ältere und das Schisma der Titanen.md",
-    "Homebrew/Im Bann der Ewigen Wellen- Sokrates der Ältere und das Ertrinken von Atlantis.md",
-    "Homebrew/Gauntlet Challenge.md",
-    "Ort/Chaos/Garga.md",
-    "Ort/Chaos/Echat.md",
-    "Homebrew/Die Ertrunkenen Geheimnisse von Atlantis- Sokrates der Ältere und Aelina Themon.md",
-    "Homebrew/Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook.md",
-    "Misc/D12 Bücher Thalassia.md",
-    "NPCs/Craig.md",
     "Ort/Delphi",
     "Ort/Chaos/Alphapolis",
     "Logs",
-    "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
     "ZZBilder/Pasted image 20231220184133.png",
     "ZZBilder/Pasted image 20231220155133.png",
     "ZZBilder/Pasted image 20231220155109.png",
