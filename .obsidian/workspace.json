@@ -53,19 +53,31 @@
             }
           },
           {
-            "id": "56882ed8378ace73",
+            "id": "f31bfef595a5fd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Thetia/Thetia.md",
+                "file": "Templates/Session Prep 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96e38a947cf8d214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Argo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "arg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Thetia/Thetia.md",
+                "file": "Misc/Argo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Thetia/Thetia.md",
+                "file": "Misc/Argo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orte/Thetia/Thetia.md"
+                "file": "Misc/Argo.md"
               }
             }
           }
@@ -193,12 +206,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56882ed8378ace73",
+  "active": "96e38a947cf8d214",
   "lastOpenFiles": [
+    "Templates/Session Prep 2.md",
+    "Misc/Argo.md",
+    "ZZBilder/Pasted image 20231220184133.png",
+    "Orte/Thetia/Thalassia.md",
+    "Orte/Thetia/Atlantis.md",
+    "Orte/Gaja/Hades/Hades.md",
+    "Orte/Gaja/Hades",
+    "Orte/Thetia/Thetia.md",
     "Templates/World Template.md",
     "Orte/Gaja/Gaja.md",
     "Orte/Meta/Meta.md",
-    "Orte/Thetia/Thetia.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
     "Orte/Gaja/Valkon/Valkon.md",
     "ZZBilder/MAP_Kutschenmuseum_Vorraum.png",
@@ -232,15 +252,8 @@
     "NPCs/Gaja/Grie",
     "NPCs/Gaja/Halblinge/Arabella Donesint.md",
     "NPCs/Meta/Wolf Skyrkamm.md",
-    "NPCs/Gaja/Druiden",
     "NPCs/Reisende/Titane.md",
-    "NPCs/Reisende/Theia.md",
-    "NPCs/Gaja/Halblinge/Rufus Quakelsand.md",
-    "NPCs/Thetia/Ricky Sumatsi.md",
-    "NPCs/Chaos/Pallasjünger/Ratio.md",
-    "NPCs/Reisende/Prometheus.md",
     "Untitled.canvas",
-    "ZZBilder/Pasted image 20231220184133.png",
     "ZZBilder/Pasted image 20231220155133.png",
     "ZZBilder/Pasted image 20231220155109.png",
     "Kampagne/Sessions/Session Prep 2023 12 18 Chaos.canvas",
