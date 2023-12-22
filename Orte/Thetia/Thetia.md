@@ -5,5 +5,11 @@ Eine Schüssel voller Wasser, in der Inseln schwimmen. Gute Laune ist das Stichw
 
 Ehemalige Hauptstadt war [[Atlantis]]. Heute ist davon nur noch die Bibiliothek [[Thalassia]] zu sehen.
 
-[[Atlantis]]
-[[Thalassia]]
+#world 
+# Geschichte
+![[222 Versinken von Atlantis]]
+![[381 Gescheiterte Expedition nach Atlantis]]
+![[440 Entdeckung des Herz von Atlantis]]
+# Regionen
+![[Atlantis]]
+![[Thalassia]]
