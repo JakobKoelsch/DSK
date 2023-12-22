@@ -1,0 +1,2 @@
+#location/city 
+Im unteren Bereich bestehen die ausgewachsenen Bäume aus mehreren kreisförmig angeordneten, riesigen Stämmen, die sich erst hoch über dem Erdboden zum Hauptstamm vereinigen. Innerhalb dieses Kreises aus Stämmen gibt es einen spiralförmig aufsteigenden Kernstamm. Diesen nutzen die Waldelfen als eine Art Treppe um sich innerhalb des Baumes nach oben und unten zu bewegen.

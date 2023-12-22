@@ -1,0 +1,1 @@
+Mutierter Grul, der in [[Alphapolis]] von [[Quintorius Donesint]] getötet wurde. Hinterlässt eine trauernde Witwe und Waise ([[Maria und der kleine Tim]]) in der Nähe des [[Kloster von Pallas Athene]].

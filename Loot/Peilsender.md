@@ -1,0 +1,2 @@
+#homebrew
+Spieler muss einen Gegenstand für mindestens drei Sekunden berühren, um den Peilsender zu befestigen. Gelingt ein Wurf auf Fingerfertigkeit SG 15, ist der Sender ohne Magie unauffindbar, ansonsten kann er durch einen aufmerksamen Blick gefunden werden.

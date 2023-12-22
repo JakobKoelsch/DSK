@@ -1,0 +1,1 @@
+Kompliziertes System aus Modrons, das sich völlig um die Verwaltung der Bibliothek kümmert. Ursprünglich für den einfachen Transport von Büchern hergestellt, von [[Ricky Sumatsi]] aus Faulheit weiterentwickelt, um sämtliche Verwaltungsarbeit zu erledigen.

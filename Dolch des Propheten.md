@@ -1,0 +1,1 @@
+"Dolf", Freund von [[Hama]], Waffe die von [[Ares]] gewonnen werden kann.

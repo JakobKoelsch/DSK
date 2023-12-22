@@ -1,0 +1,2 @@
+#npc 
+Ein zum Leben erwecktes ausgestopftes Mischwesen (Oberkörper einer Ziege, Beine eines Menschen) mit einer Sense in der Hand. Kann nur meckern wie eine Ziege. Falls jemand seine Gedanken liest oder die Sprache der Tiere versteht, findet er heraus, dass der Ziegenpeter freundlich, aber völlig verrückt ist, und nur zusammenhanglose Sätze von sich gibt.

@@ -1,0 +1,13 @@
+#table
+1. [[Tasty McBacon]]
+2. [[Eiszombie]]
+3. [[Eiszombie]]
+4. [[Teiresias]]
+5. [[Psycho]]
+6. [[Satyr Zuhälter]]
+7. [[Hadesjünger]]
+8. [[Bande Echsenmenschen]]
+9. [[Plünderer]]
+10. [[Amazonen]]
+11. [[Paladine der Freiheitsarmee]]
+12. [[Zwerge]]
