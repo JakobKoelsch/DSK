@@ -44,8 +44,8 @@
               "state": {
                 "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "viewState": {
-                  "x": -51.98310656919504,
-                  "y": 331.8515017445006,
+                  "x": 282.36155620683775,
+                  "y": 380.1672044578001,
                   "zoom": 0.26666666666666694
                 }
               },
@@ -70,14 +70,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Argo.md",
+                "file": "Orte/Meta/Bar von Meta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arg",
+                "query": "bar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Argo.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Argo.md",
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Argo.md"
+                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
               }
             }
           }
@@ -206,9 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96e38a947cf8d214",
+  "active": "35c8325190723964",
   "lastOpenFiles": [
     "Templates/Session Prep 2.md",
+    "Orte/Meta/Bar von Meta.md",
     "Misc/Argo.md",
     "ZZBilder/Pasted image 20231220184133.png",
     "Orte/Thetia/Thalassia.md",
@@ -252,7 +253,6 @@
     "NPCs/Gaja/Grie",
     "NPCs/Gaja/Halblinge/Arabella Donesint.md",
     "NPCs/Meta/Wolf Skyrkamm.md",
-    "NPCs/Reisende/Titane.md",
     "Untitled.canvas",
     "ZZBilder/Pasted image 20231220155133.png",
     "ZZBilder/Pasted image 20231220155109.png",
