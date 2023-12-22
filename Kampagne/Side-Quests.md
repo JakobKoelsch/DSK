@@ -15,4 +15,4 @@
 -[] [[Grohan Glücksfuß]] bietet [[Geflohene Halbinge]]n eine Evakuierung an, wenn sie [[Murs Mollim (tot)]] ausliefern
 # Collectibles
 - Level -> Räume auf [[Meta]]
-- Die [[Crew]] ist verschollen
+- Die [[Meta NPCs]] ist verschollen

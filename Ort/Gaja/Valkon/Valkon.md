@@ -1,4 +1,4 @@
-#location/continent 
+#niklas #location/continent 
 Die Insel [[Valkon]], wo sich die Fraktionen der [[Vallen]], [[Elebyser]] (Halblinge), u.a. den [[Nachtfalken]], und die Bewohner des Waldes, namentlich die Waldelfen-Stämme der [[Gríe]] und die [[Druiden von Valkon]] gegenseitig bekriegen.
 
 Dabei gibt es drei Bündnisse, die alle untereinander im Zwist liegen:

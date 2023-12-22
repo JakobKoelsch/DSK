@@ -21,7 +21,7 @@ Der Hohepriester [[Gundelius Born]] verzeiht ihm den Mord an seiner Tochter nach
 Nik
 Kann unendliche Schuld je gesühnt werden?
 [[424 Vallenkrieg]]
-- Hat die Tochter von [[Gundelius Born]] [[Nadja Born]] vergiftet
+- Hat die Tochter von [[Gundelius Born]] [[Nadja Born (tot)]] vergiftet
 - x War in die Tochter verliebt
 - x Hat damit versehentlich den [[424 Vallenkrieg]] begonnen
 - x Floh in die [[Dextralla Wälder]], um alles zu vergessen und hinter sich zu lassen
