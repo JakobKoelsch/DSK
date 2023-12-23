@@ -1,9 +1,3 @@
 #handout 
 Enthält einen Zauber 
-
-"In ein Huhn Verwandeln"
-V,S,M (Handvoll Körner, eine Feder)
-
-Cantrip
-
-
+https://www.dndbeyond.com/spells/2226449-turn-into-chicken

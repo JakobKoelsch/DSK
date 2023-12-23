@@ -9,10 +9,11 @@ x Stammt aus [[Thalassia]], [[Thetia]].
 x genauer aus [[Universe In A Box]]
 x Ist eigentlich ein 8 Jahre alter Junge aus der echten Welt, unterwegs um Abenteuer zu erleben
 
-x Betet [[Haephaestus]] an.
+Betet [[Haephaestus]] an.
 # Plot Hooks
 -[] Zeitreise
--[] Will Zauberbücher
+-[x] Will Zauberbücher
+-[] Hat [[Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook]] muss es aber nach und nach "entfesseln"
 # Backstory
 Fredy
 - x Sein Video an sich selbst beim [[Der Schwarze Kreisel]] ist "verloren" gegangen.
