@@ -1,1 +1,1 @@
-Ogerhafter Rüpel, der drei [[JO Crystal]]s hat.
+Ogerhafter Rüpel in [[Alphapolis]], der drei [[JO Crystal]]s hat.

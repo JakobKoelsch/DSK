@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates ",
+  "search": "-path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "tag:pc",
       "color": {
         "a": 1,
-        "rgb": 5410784
+        "rgb": 16711680
       }
     },
     {
@@ -43,14 +43,42 @@
       }
     },
     {
-      "query": "M",
+      "query": "path:Orte/Meta  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 328965
+      }
+    },
+    {
+      "query": "path:NPCs/Meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 2697528
+      }
+    },
+    {
+      "query": "path:NPCs/Reisende  ",
+      "color": {
+        "a": 1,
+        "rgb": 14815953
+      }
+    },
+    {
+      "query": "path:Orte/Thetia  ",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    },
+    {
+      "query": "path:NPCs/Thetia  ",
+      "color": {
+        "a": 1,
+        "rgb": 52479
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -60,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32015892881621305,
-  "close": false
+  "scale": 0.32015892881622277,
+  "close": true
 }
