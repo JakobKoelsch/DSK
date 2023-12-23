@@ -4,6 +4,7 @@ Geheimnisvolle Zwischenwelt des [[Der Schwarze Kreisel]]. Erinnert von innen an 
 # Spielmechaniken
 Meta dient als HUB für Aktivitäten zwischen den Missionen. Im Laufe der Kampagne können hier verschiedene Räume freigeschaltet und Personen (Trader, Heiler, NPCs mit Spezialwissen, Haustiere,...) hergebracht werden.
 Durch sammeln der [[Weltenscherbe]]n werden nacheinander große Stahltüren durchquerbar. Hinter jeder Tür lauert ein zunehmend schwieriger Boss. Wird dieser besiegt, gibt es ein Level Up für die Bezwinger, und der Raum mit seinen Funktionen wird freigeschaltet.
+Jede Nacht ist eine Short Rest ohne weiteres möglich. Eine Long Rest bedarf des ![[Long Rest Ritual]].
 # Personen
 ![[Meta NPCs]]
 [[Orpheus]]

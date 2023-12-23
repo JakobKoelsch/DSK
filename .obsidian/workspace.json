@@ -25,8 +25,12 @@
             "id": "cc68e0587f12bdd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Long Rest Ritual.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Long Rest Ritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Long Rest Ritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Long Rest Ritual.md"
+              }
             }
           }
         ],
@@ -157,11 +165,12 @@
   },
   "active": "cc68e0587f12bdd5",
   "lastOpenFiles": [
+    "Orte/Meta/Meta.md",
+    "Long Rest Ritual.md",
     "Homebrew/JO Crystal.md",
     "NPCs/Chaos/Aresjünger/Beast.md",
     "Homebrew/Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook.md",
     "Orte/Thetia/Thalassia.md",
-    "Orte/Meta/Meta.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
     "Orte/Thetia/Thetia.md",
     "Misc/69 Subs.md",
@@ -183,7 +192,6 @@
     "Poseidon.md",
     "NPCs/Thetia/Ricky Sumatsi.md",
     "Orte/Thetia/Atlantis.md",
-    "Homebrew/Hühnerpuzzle.md",
     "ZZBilder/Pasted image 20231220155109.png",
     "ZZBilder/Pasted image 20231220184133.png",
     "Orte/Gaja/Hades",
