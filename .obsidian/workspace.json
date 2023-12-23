@@ -22,62 +22,19 @@
             }
           },
           {
-            "id": "4676b58e173f9eff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Thetia/Thetia.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "35c8325190723964",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
-                "viewState": {
-                  "x": 961.786499232265,
-                  "y": 618.775056428524,
-                  "zoom": -0.15833333333333324
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2833b30b54e26749",
+            "id": "f09f34b594cd6116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Wilfred.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0b0eb37e593ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Feyran Themon.md",
+                "file": "Orte/Thetia/Thalassia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ulyss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters/Feyran Themon.md",
+                "file": "Orte/Thetia/Thalassia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters/Feyran Themon.md",
+                "file": "Orte/Thetia/Thalassia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/Feyran Themon.md"
+                "file": "Orte/Thetia/Thalassia.md"
               }
             }
           }
@@ -205,11 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf0b0eb37e593ff4",
+  "active": "f09f34b594cd6116",
   "lastOpenFiles": [
+    "Orte/Meta/Meta.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
-    "Player Characters/Wilfred.md",
     "Orte/Thetia/Thetia.md",
+    "Misc/69 Subs.md",
+    "Player Characters/Wilfred.md",
+    "Player Characters/Feyran Themon.md",
+    "Player Characters/Sapientia.md",
     "Homebrew/Im Bann der Ewigen Wellen- Sokrates der Ältere und das Ertrinken von Atlantis.md",
     "NPCs/Thetia/Sokrates der Ältere.md",
     "Mein Leben als Huhn - Der Große Alphons.md",
@@ -218,7 +180,6 @@
     "Player Characters/Mina Pallas.md",
     "Kolbus.md",
     "NPCs/Reisende/Garifallia.md",
-    "Orte/Meta/Meta.md",
     "Homebrew/Register von Thalassia.md",
     "Orte/Thetia/Thalassia.md",
     "Bibliotheksausweis.md",
@@ -226,14 +187,11 @@
     "Huhnkampfanzug.md",
     "Poseidon.md",
     "NPCs/Thetia/Ricky Sumatsi.md",
-    "Player Characters/Feyran Themon.md",
     "Orte/Thetia/Atlantis.md",
     "Homebrew/Hühnerpuzzle.md",
     "ZZBilder/Pasted image 20231220155109.png",
     "Homebrew/Die Ertrunkenen Geheimnisse von Atlantis- Sokrates der Ältere und Aelina Themon.md",
     "Misc/Auszug Protokoll Gerichtsverhandlung Garifallia.md",
-    "Misc/442 Garifallias Verhaftung.md",
-    "Misc/Die Großen Städte der Welten.md",
     "ZZBilder/Pasted image 20231220184133.png",
     "Orte/Gaja/Hades",
     "ZZBilder/MAP_Kutschenmuseum_Vorraum.png",

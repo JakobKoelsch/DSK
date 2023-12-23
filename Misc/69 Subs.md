@@ -18,7 +18,7 @@
 18. Raphael
 19. Samuel
 20. Theodore
-21. Ulysses
+21. [[Ulysses]]
 22. Vincent
 23. William
 24. Xavier

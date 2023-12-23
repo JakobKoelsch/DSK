@@ -8,21 +8,21 @@ Hasst Rassisten und Fußabtreter
 Mag Höhlen
 
 Beziehungen:
-x Geboren wurde sie in [[Gargantula]]
-x Aufgewachsen ist sie in [[Shanim]]
+Geboren wurde sie in [[Gargantula]]
+Aufgewachsen ist sie in [[Shanim]]
 x Ihre Ausbildung bekam sie im [[Kloster von Pallas Athene]]
 x Diente unter [[Gerforius Dohm]] bei der [[Freiheitsarmee]]
 # Plot Hook
 - Hassliebe zu [[Mina Pallas]]
--[] [[Dolch des Propheten]]
+-[] [[Dolch des Propheten]] ([[Hama]], [[Blossom]], [[Teiresias]])
 -[] Ehemalige Soldatin der [[Freiheitsarmee]]
 # Backstory
 (Rebecca)
 Retterin der Heimat, in der sie niemand wollte.
 [[426 Die Große Seuche]]
 - x Wurde im [[Kloster von Pallas Athene]] ausgebildet
-- x Ihre Kindheit verbrachte sie auf der Flucht vor [[Eiszombie]] in [[Shanim]]
-- x Verlor ihren "Vater" und Geschwister bei dem [[436 Ausbruch in Shanim]]
+- Ihre Kindheit verbrachte sie auf der Flucht vor [[Eiszombie]] in [[Shanim]]
+- Verlor ihren "Vater" und Geschwister bei dem [[436 Ausbruch in Shanim]]
 - x Sie kam in den [[Kloster von Pallas Athene]], wo sie Mitglied der [[Freiheitsarmee]] wurde
 - x [[Freiheitsarmee]] hielt auch zu ihr, als ihr mit 14 Hörner wuchsen.
 - Erlebte die [[440 Niederlage bei Ys]] an der Insel [[Ys]], was sie dazu brachte, dem [[Der Schwarze Kreisel]] beizutreten, in der Hoffnung auf Unterstützung in diesem Krieg

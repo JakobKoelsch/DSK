@@ -15,4 +15,5 @@ Viele der Bücher sind vom berühmten [[Sokrates der Ältere]] verfasst, der auc
 
 -[] [[Ricky Sumatsi]] hat angeboten, schwarze [[Bibliotheksausweis]]e zu  basteln
 -[] [[Ricky Sumatsi]] hat angeboten, einen [[Hühnerkampfanzug]] für Pavoras zu basteln
+-[] Hier ist eine [[Weltenscherbe]] verborgen
 # Random Tables
