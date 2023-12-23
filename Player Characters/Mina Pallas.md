@@ -11,7 +11,7 @@ Direkte Nachfahrin von [[Pallas Athene]]
 Beste Freundin der Titanistin [[Garifallia]]
 
 Stammt vom [[Olymp]], 
-wurde ausgebildet auf [[Kolbus]].
+wurde ausgebildet auf [[Kolbus]] in der [[Pallas Athene Militärakademie]], gemeinsam mit [[Amyra Taba Beheshtian]].
 # Story Hooks
 -[] Finde heraus, was mit [[Garifallia]] passiert ist ([[Arachne]])
 -[] Gemeinsame Mission mit [[Amyra Taba Beheshtian]] auf [[Chaos]]

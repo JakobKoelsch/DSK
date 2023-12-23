@@ -44,16 +44,88 @@
               "state": {
                 "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "viewState": {
-                  "x": 318.85675039381755,
-                  "y": 244.7546736299164,
-                  "zoom": -0.23333333333333306
+                  "x": -63.11737663076662,
+                  "y": 622.6670964634471,
+                  "zoom": -0.15833333333333324
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4967c01f0c252a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poseidon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00dbff4caf9f24dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Huhnkampfanzug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14485542118d4fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asteria - A Secret Love Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c857d1ed420510c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliotheksausweis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a41b50decf706ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew/Register von Thalassia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b5aade1e5a91c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Amyra Taba Beheshtian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -82,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atlantis",
+                "query": "kolb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,11 +171,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 233.5
   },
   "right": {
     "id": "c05758185ada04d1",
@@ -119,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Player Characters/Amyra Taba Beheshtian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Player Characters/Amyra Taba Beheshtian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
+                "file": "Player Characters/Amyra Taba Beheshtian.md"
               }
             }
           }
@@ -181,11 +254,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c8325190723964",
+  "active": "53b5aade1e5a91c6",
   "lastOpenFiles": [
-    "NPCs/Thetia/Ricky Sumatsi.md",
+    "Player Characters/Mina Pallas.md",
+    "Kolbus.md",
+    "Player Characters/Amyra Taba Beheshtian.md",
+    "NPCs/Reisende/Garifallia.md",
+    "Orte/Meta/Meta.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Homebrew/Register von Thalassia.md",
     "Orte/Thetia/Thalassia.md",
+    "Bibliotheksausweis.md",
+    "Asteria - A Secret Love Story.md",
+    "Huhnkampfanzug.md",
+    "Poseidon.md",
+    "NPCs/Thetia/Ricky Sumatsi.md",
     "Player Characters/Feyran Themon.md",
     "Orte/Thetia/Thetia.md",
     "Orte/Thetia/Atlantis.md",
@@ -203,10 +286,6 @@
     "ZZBilder/Pasted image 20231220184133.png",
     "Orte/Gaja/Hades/Hades.md",
     "Orte/Gaja/Hades",
-    "Templates/World Template.md",
-    "Orte/Gaja/Gaja.md",
-    "Orte/Meta/Meta.md",
-    "Orte/Gaja/Valkon/Valkon.md",
     "ZZBilder/MAP_Kutschenmuseum_Vorraum.png",
     "ZZBilder/MAP_Kutschenmuseum_Vorraum_2.png",
     "ZZBilder/Pasted image 20231107201457.png",
@@ -214,11 +293,6 @@
     "Battlemaps/SteppeHinterhalt.png",
     "Battlemaps/CultChurch.png",
     "Battlemaps/AlteLandstraße.png",
-    "Orte/Chaos/Ys.md",
-    "Orte/Chaos/Tula.md",
-    "Orte/Chaos/Sinkholes.md",
-    "Orte/Chaos/Lager der Freiheitsarmee (Agam).md",
-    "Orte/Chaos/Harim/Harim 1.md",
     "Orte/Chaos/Harim",
     "NPCs/Chaos/Sumpfbewohner",
     "NPCs/Chaos/Bergbewohner",

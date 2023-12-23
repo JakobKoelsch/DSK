@@ -1,0 +1,1 @@
+[[Ricky Sumatsi]] hat [[Pavoras]] angeboten, einen Kampfanzug zu bauen, den er verwenden kann wenn er sich in ein Huhn verwandelt.

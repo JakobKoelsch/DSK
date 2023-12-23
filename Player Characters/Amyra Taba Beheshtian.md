@@ -23,3 +23,4 @@ Mentee von [[Gerforius Dohm]].
 - Hat in der [[440 Niederlage bei Ys]] gekämpft
 - [[Gerforius Dohm]] hat sie zu seiner Nachfolgerin ernannt [[Gerforius Testament]]
 - [[Briefing Anfang Paula]]
+- Wurde ausge
