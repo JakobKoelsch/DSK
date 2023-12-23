@@ -20,8 +20,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cc68e0587f12bdd5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Meta/Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Meta/Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Orte/Meta/Meta.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b43508f1c8acf8",
+  "active": "cc68e0587f12bdd5",
   "lastOpenFiles": [
+    "Homebrew/Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook.md",
     "Orte/Thetia/Thalassia.md",
     "Orte/Meta/Meta.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",

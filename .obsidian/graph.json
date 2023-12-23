@@ -8,27 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#npc  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#location  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#world  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
       "query": "tag:pc",
       "color": {
         "a": 1,
@@ -36,17 +15,38 @@
       }
     },
     {
-      "query": "tag:#handout  ",
+      "query": "path:Orte/Chaos  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14866543
       }
     },
     {
-      "query": "tag:#summary  ",
+      "query": "path:NPCs/Chaos  ",
       "color": {
         "a": 1,
-        "rgb": 11266193
+        "rgb": 14528526
+      }
+    },
+    {
+      "query": "path:Orte/Gaja  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:NPCs/Gaja  ",
+      "color": {
+        "a": 1,
+        "rgb": 96549
+      }
+    },
+    {
+      "query": "M",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27733198746898624,
-  "close": true
+  "scale": 0.32015892881621305,
+  "close": false
 }

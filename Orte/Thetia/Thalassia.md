@@ -10,6 +10,11 @@ Weiter hinten sind verschiedene Artefakte ausgestellt, u.a. das [[Universe In A 
 
 Viele der Bücher sind vom berühmten [[Sokrates der Ältere]] verfasst, der auch gelegentlich vorbeikommt, um sich Bücher auszuleihen.
 
+|Fällig am|Verleiher|Bücher|
+|---|---|---|
+|13.4.443|[[Pavoras]]| [[Asteria - A Secret Love Story]], [[Schnellaweit Reiseführer]]|
+
+
 
 ![[Thalassia Names]]
 
