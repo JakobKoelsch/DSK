@@ -5,18 +5,20 @@ Spieler: Alex
 Mensch Sorcerer, Weltfremder Bücherwurm
 Trägt das [[Herz von Atlantis]] in seiner Brust.
 Spion von [[Themis]], gibt sich als Diener von [[Dike]] aus.
-x War lange Jahre Bibliothekar von [[Thalassia]]
-x Sohn von [[Aelina Themon]]
-x Stammt aus [[Thalassia]] auf [[Thetia]].
+War lange Jahre Bibliothekar von [[Thalassia]]
+Sohn von [[Aelina Themon]]
+Stammt aus [[Thalassia]] auf [[Thetia]].
 # Story Hooks
--[] [[Herz von Atlantis]] reagiert auf [[Weltenscherbe]]n
+-[x] [[Herz von Atlantis]] reagiert auf [[Weltenscherbe]]n
+-[] [[Sokrates der Ältere]] hat Buch über [[Herz von Atlantis]] ausgeliehen
+-[] Mutter in [[Atlantis]] verschollen
 # Backstory: 
 (Marvin)
 Der Verräter.
 [[440 Entdeckung des Herz von Atlantis]]
-- x Fand das [[Herz von Atlantis]] in einer Schatulle
-- x Ging einen Pakt mit [[Themis]] ein - das [[Herz von Atlantis]] für die Hilfe bei der Vernichtung der [[Weltenscherbe]]
-- x Seine Mutter [[Aelina Themon]] verschwand als er noch ganz klein war
+- Fand das [[Herz von Atlantis]] in einer Schatulle
+- Ging einen Pakt mit [[Themis]] ein - das [[Herz von Atlantis]] für die Hilfe bei der Vernichtung der [[Weltenscherbe]]
+- Seine Mutter [[Aelina Themon]] verschwand als er noch ganz klein war
 - [[Aelina Themon]] schrieb [[Die Großen Städte der Welten]] bevor sie auf ihre Expedition aufbrach
 - x Seine Mutter wurde von Poseidon ermordert ([[381 Gescheiterte Expedition nach Atlantis]])
 - x Ging zum [[Der Schwarze Kreisel]], um dem Auftrag [[Themis]] nachzukommen-

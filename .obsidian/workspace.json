@@ -44,8 +44,8 @@
               "state": {
                 "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
                 "viewState": {
-                  "x": 429.8743611261348,
-                  "y": 64.80802479116413,
+                  "x": 961.786499232265,
+                  "y": 618.775056428524,
                   "zoom": -0.15833333333333324
                 }
               },
@@ -63,9 +63,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf0b0eb37e593ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Feyran Themon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Player Characters/Feyran Themon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+                "file": "Player Characters/Feyran Themon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Sessions/2023.12.22 Thalassia.canvas"
+                "file": "Player Characters/Feyran Themon.md"
               }
             }
           }
@@ -193,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c8325190723964",
+  "active": "bf0b0eb37e593ff4",
   "lastOpenFiles": [
-    "Player Characters/Wilfred.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
+    "Player Characters/Wilfred.md",
     "Orte/Thetia/Thetia.md",
     "Homebrew/Im Bann der Ewigen Wellen- Sokrates der Ältere und das Ertrinken von Atlantis.md",
     "NPCs/Thetia/Sokrates der Ältere.md",
