@@ -23,4 +23,4 @@ Mentee von [[Gerforius Dohm]].
 - Hat in der [[440 Niederlage bei Ys]] gekämpft
 - [[Gerforius Dohm]] hat sie zu seiner Nachfolgerin ernannt [[Gerforius Testament]]
 - [[Briefing Anfang Paula]]
-- Wurde ausge
+- Wurde ausgebildet auf der [[Pallas Athene Militärakademie]], zusammen mit [[Mina Pallas]]
