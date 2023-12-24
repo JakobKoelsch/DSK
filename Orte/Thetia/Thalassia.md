@@ -9,6 +9,7 @@ Die Rezeption ist ein heilloses Chaos aus Kissen, Büchern, Zetteln und dreckige
 Weiter hinten sind verschiedene Artefakte ausgestellt, u.a. das [[Universe In A Box]] und das [[U-Boot]].
 
 Viele der Bücher sind vom berühmten [[Sokrates der Ältere]] verfasst, der auch gelegentlich vorbeikommt, um sich Bücher auszuleihen. Bei nicht zurückgeben: keine weiteren Bücher können zurückgegeben werden, drei Kupfer Strafe.
+
 |Fällig am|Verleiher|Bücher|
 |---|---|---|
 |13.4.443|[[Pavoras]]| [[Asteria - A Secret Love Story]], [[Schnellaweit Reiseführer]]|

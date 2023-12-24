@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1a2adade495594af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Thetia/Thalassia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Thetia/Thalassia.md",
+                "file": "Orte/Meta/Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Thetia/Thalassia.md",
+                "file": "Orte/Meta/Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orte/Thetia/Thalassia.md"
+                "file": "Orte/Meta/Meta.md"
               }
             }
           }
@@ -162,15 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a2adade495594af",
+  "active": "b9b43508f1c8acf8",
   "lastOpenFiles": [
-    "Orte/Meta/Meta.md",
-    "Player Characters/Wilfred.md",
     "Long Rest Ritual.md",
+    "Orte/Meta/Meta.md",
+    "Orte/Thetia/Thalassia.md",
+    "Player Characters/Wilfred.md",
     "Homebrew/JO Crystal.md",
     "NPCs/Chaos/Aresjünger/Beast.md",
     "Homebrew/Der Große Alphons - Memoiren eines Entfesselungskünstlers Spellbook.md",
-    "Orte/Thetia/Thalassia.md",
     "Kampagne/Sessions/2023.12.22 Thalassia.canvas",
     "Orte/Thetia/Thetia.md",
     "Misc/69 Subs.md",
